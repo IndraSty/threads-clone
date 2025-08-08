@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/BangNdraa/threads-clone/backend/auth-service/configs"
-	"github.com/BangNdraa/threads-clone/backend/auth-service/internal/models"
+	"github.com/IndraSty/threads-clone/backend/auth-service/configs"
+	"github.com/IndraSty/threads-clone/backend/auth-service/internal/models"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/facebook"
 	"golang.org/x/oauth2/google"

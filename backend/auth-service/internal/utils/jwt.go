@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/BangNdraa/threads-clone/backend/auth-service/configs"
+	"github.com/IndraSty/threads-clone/backend/auth-service/configs"
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/google/uuid"
 )

@@ -1,4 +1,4 @@
-module github.com/BangNdraa/threads-clone/backend/follow-service
+module github.com/IndraSty/threads-clone/backend/follow-service
 
 go 1.24.6
 

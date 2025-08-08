@@ -1,4 +1,4 @@
-module github.com/BangNdraa/threads-clone/backend/threads-service
+module github.com/IndraSty/threads-clone/backend/threads-service
 
 go 1.24.6
 

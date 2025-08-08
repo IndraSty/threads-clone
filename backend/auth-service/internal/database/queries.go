@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/BangNdraa/threads-clone/backend/auth-service/internal/models"
+	"github.com/IndraSty/threads-clone/backend/auth-service/internal/models"
 	"github.com/google/uuid"
 	"github.com/jmoiron/sqlx"
 )

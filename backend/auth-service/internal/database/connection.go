@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/BangNdraa/threads-clone/backend/auth-service/configs"
+	"github.com/IndraSty/threads-clone/backend/auth-service/configs"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 )

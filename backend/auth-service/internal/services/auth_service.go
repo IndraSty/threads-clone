@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/BangNdraa/threads-clone/backend/auth-service/internal/database"
-	"github.com/BangNdraa/threads-clone/backend/auth-service/internal/models"
-	"github.com/BangNdraa/threads-clone/backend/auth-service/internal/utils"
+	"github.com/IndraSty/threads-clone/backend/auth-service/internal/database"
+	"github.com/IndraSty/threads-clone/backend/auth-service/internal/models"
+	"github.com/IndraSty/threads-clone/backend/auth-service/internal/utils"
 	"github.com/google/uuid"
 )
 

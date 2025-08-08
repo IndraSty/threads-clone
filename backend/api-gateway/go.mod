@@ -1,4 +1,4 @@
-module github.com/BangNdraa/threads-clone/backend/api-gateway
+module github.com/IndraSty/threads-clone/backend/api-gateway
 
 go 1.24.6
 

@@ -1,4 +1,4 @@
-module github.com/BangNdraa/threads-clone/backend/auth-service
+module github.com/IndraSty/threads-clone/backend/auth-service
 
 go 1.24.6
 

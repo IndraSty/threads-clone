@@ -3,8 +3,8 @@ package middleware
 import (
 	"strings"
 
-	"github.com/BangNdraa/threads-clone/backend/auth-service/internal/models"
-	"github.com/BangNdraa/threads-clone/backend/auth-service/internal/services"
+	"github.com/IndraSty/threads-clone/backend/auth-service/internal/models"
+	"github.com/IndraSty/threads-clone/backend/auth-service/internal/services"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
 )
