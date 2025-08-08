@@ -1,0 +1,4 @@
+/auth-service/.env
+/follow-service/.env
+/threads-service/.env
+/api-gateway/.env
